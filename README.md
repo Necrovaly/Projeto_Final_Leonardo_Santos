@@ -1,2 +1,2 @@
-# Projeto_Final_Leonardo_Santos
+# Projeto Final Automação
 Projeto de automação com a biblioteca PyAutoGui
